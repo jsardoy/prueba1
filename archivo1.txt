@@ -1,1 +1,3 @@
 Archivo 1
+Nueva línea en archivo2
+
